@@ -1,5 +1,5 @@
 # Movie_App
-##IMAGES
+## IMAGES
 Tried to build a clone of Google PLAY-MOVIES App
 
 ## DESCRIPTION
