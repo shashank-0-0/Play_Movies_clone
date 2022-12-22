@@ -1,7 +1,7 @@
 # Movie_App
 ## IMAGES
 ### Tried to build a clone of Google PLAY-MOVIES App
-![Main activity](https://static.wixstatic.com/media/fdfbff_47a77d117b1e43e8b728bec83f71f3a3~mv2.jpeg =200x)
+![Main activity](https://static.wixstatic.com/media/fdfbff_47a77d117b1e43e8b728bec83f71f3a3~mv2.jpeg=200x)
 ## DESCRIPTION
 It is a sample movie application built wiht the purpose of exploring android best practices and libraries.
 Users can save movies to their watchlist.Built with Kotlin using MVVM architecture.
