@@ -1,4 +1,4 @@
-# Movie_App
+# Play_Movies_Clone
 ## IMAGES
 ### Tried to build a clone of Google PLAY-MOVIES App
 ![Main activity](https://static.wixstatic.com/media/fdfbff_1e98ce1d2eae4938ab218de31325dcd2~mv2.jpeg)
